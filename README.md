@@ -21,7 +21,7 @@ prueba-DB es una aplicacion web disenada para gestionar y practicar conceptos re
 ## Estructura del Proyecto
 
 ```
-simulacro-db/
+prueba_DB/
 ├── back/
 │   ├── node_modules/
 │   ├── uploads/
