@@ -77,8 +77,8 @@ simulacro-db/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/adr1ann32323/simulacro-db.git
-cd simulacro-db
+git clone https://github.com/adr1ann32323/prueba_DB.git
+cd prueba_DB
 ```
 
 ### 2. Ejecutar el Backend (Node.js) en Visual Studio Code
